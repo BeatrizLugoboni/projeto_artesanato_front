@@ -38,12 +38,8 @@
     </v-app-bar>
 
     <v-main>
-      <v-card elevation="2" color="pink" width="300">
-        <v-card-title>
-          Teste
-        </v-card-title>
-      </v-card>
-      <!-- <HelloWorld/> -->
+      novo projeto
+      <HelloWorld/>
     </v-main>
   </v-app>
 </template>
